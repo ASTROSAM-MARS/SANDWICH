@@ -1,0 +1,2 @@
+# INTRODUCTION
+A sandwich is being prepared. A sandwich is a food typically constiting of vegetables, sliced cheese, mayonaise, meat and egg in case of non-veg sandwich, between slices of bread or any other food. Here bread veg sandwich is being prepared.
